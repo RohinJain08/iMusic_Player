@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">iMusic</string>
+    <string name="designed_by_rohin_jain">Designed By - Rohin Jain</string>
+    <string name="todo">TODO</string>
+    <string name="string_todo" />
+    <string name="textview">TextView</string>
+    <string name="imusic_player">iMusic Player</string>
+</resources>
